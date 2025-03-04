@@ -16,9 +16,7 @@
 # Chatbot Project  
 
 ## Overview  
-This project is a **chatbot** built using Python and Jupyter Notebook. It demonstrates natural language processing (NLP) and chatbot interactions, allowing users to communicate with an AI-based system.  
-
-## Features  
+This chatbot project follows a structured approach to building an AI-driven conversational assistant. It starts by reading data from text file. The data is then preprocessed, including tokenization, text cleaning, and vectorization, to prepare it for training. A machine learning or NLP model is trained to classify user intents and generate appropriate responses based on input queries. Once trained, the chatbot can interact with users by processing their questions, identifying intent, and providing relevant answers. The system can be further improved by expanding the dataset and retraining the model to enhance accuracy and responsiveness over time.
 - Implements a chatbot using Python.  
 - Processes user inputs and generates appropriate responses.  
 - Utilizes machine learning/NLP techniques (if applicable).  
