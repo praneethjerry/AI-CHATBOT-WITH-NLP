@@ -53,7 +53,11 @@ Ensure you have the following Python libraries installed:
 You can install missing dependencies using:  
 ```bash
 pip install numpy pandas nltk tensorflow sklearn
-```  
+```
+
+
+## Output
+![Image](https://github.com/user-attachments/assets/17db02e6-e9ad-41f0-9b82-3ea1f923b869)
 
 ## Contributing  
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.  
